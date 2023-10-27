@@ -1,5 +1,20 @@
-{"conversation": 
-   [
-      "whatever json you want goes here, doesn't have to be an array"
-   ]
+{
+  "conversation": [
+    {
+      "Type": 0,
+      "Message": "Hello How are you today ?"
+    },
+    {
+      "Type": 0,
+      "Message": "Do you want to know about Villa ?"
+    },
+    {
+      "Type": 0,
+      "Message": "Do you want to know how to spawn a picture"
+    },
+    {
+      "Type": 0,
+      "Message": "Do you want me to ask anything"
+    }
+  ]
 }
