@@ -5,8 +5,8 @@
       "Message": "Hello How are you today ?"
     },
     {
-      "Type": 0,
-      "Message": "Do you want to know about Villa ?"
+      "Type": 1,
+      "Message": "Ask me a question about a world Capital"
     },
     {
       "Type": 0,
