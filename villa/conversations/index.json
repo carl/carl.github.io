@@ -1,20 +1,21 @@
 {
+  "userResponseWaitTime": 3.0,
   "conversation": [
     {
-      "Type": 0,
-      "Message": "Hello How are you today ?"
+      "type": 0,
+      "message": "Hello How are you today?"
     },
     {
-      "Type": 1,
-      "Message": "Ask me a question about a world Capital"
+      "type": 1,
+      "message": "Ask me a question about a world Capital"
     },
     {
-      "Type": 0,
-      "Message": "Do you want to know how to spawn a picture"
+      "type": 0,
+      "message": "Do you want to know how to spawn a picture?"
     },
     {
-      "Type": 0,
-      "Message": "Do you want me to ask anything"
+      "type": 0,
+      "message": "Do you want me to ask anything?"
     }
   ]
 }
