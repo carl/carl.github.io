@@ -1,6 +1,6 @@
 {
-  "userResponseWaitTime": 8.0,
-  "aiNextTaskWaitTime" : 5.0,
+  "userResponseWaitTime": 3.0,
+  "aiNextTaskWaitTime" : 1.0,
   "conversation": [
     {
       "type": 0,
