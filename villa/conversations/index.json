@@ -15,15 +15,15 @@
       "message": "Do you want to know how to spawn a picture?"
     },
     {
-      "type": 0,
+      "type": 1,
       "message": "I can teach you anything, what would you like me to teach you?"
     },
     {
-      "type": 0,
+      "type": 1,
       "message": "What's your favorite color?"
     },
     {
-      "type": 0,
+      "type": 1,
       "message": "You want to play?"
     }
   ]
