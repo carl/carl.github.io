@@ -1,13 +1,13 @@
 {
   "userResponseWaitTime": 1.0,
-  "aiNextTaskWaitTime" : 1.0,
+  "aiNextTaskWaitTime" : 0.1,
   "conversation": [
     {
       "type": 0,
-      "message": "Hello How are you today?"
+      "message": "What are you doing today?"
     },
     {
-      "type": 1,
+      "type": 0,
       "message": "Ask me a question about a world Capital"
     },
     {
@@ -16,7 +16,15 @@
     },
     {
       "type": 0,
-      "message": "Do you want me to ask anything?"
+      "message": "I can teach you anything, what would you like me to teach you?"
+    },
+    {
+      "type": 0,
+      "message": "What's your favorite color?"
+    },
+    {
+      "type": 0,
+      "message": "You want to play?"
     }
   ]
 }
