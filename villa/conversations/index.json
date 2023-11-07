@@ -3,15 +3,15 @@
   "aiNextTaskWaitTime" : 0.1,
   "conversation": [
     {
-      "type": 0,
+      "type": 1,
       "message": "What are you doing today?"
     },
     {
-      "type": 0,
+      "type": 1,
       "message": "Ask me a question about a world Capital"
     },
     {
-      "type": 0,
+      "type": 1,
       "message": "Do you want to know how to spawn a picture?"
     },
     {
