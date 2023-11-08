@@ -1,0 +1,23 @@
+{
+  "conversation": {
+    "id": "2",
+    "name": "How to spawn tutorial",
+    "userResponseWaitTime": 2.0,
+    "userResponseWaitTimeAfterFirstWord": 0.5,
+    "aiNextTaskWaitTime": 1,
+    "messages": [
+      {
+        "type": 0,
+        "message": "Welcome to Villa! Can I teach you how to spawn things?"
+      },
+      {
+        "type": 0,
+        "message": "Ask me how to spawn some art"
+      },
+      {
+        "type": 0,
+        "message": "Ask me how to spawn a 3D model"
+      }
+    ]
+  }
+}

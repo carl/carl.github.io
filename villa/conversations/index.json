@@ -1,31 +1,12 @@
 {
-  "userResponseWaitTime": 2.0,
-  "userResponseWaitTimeAfterFirstWord":0.5,
-  "aiNextTaskWaitTime" : 1,
-  "conversation": [
+  "conversations": [
     {
-      "type": 0,
-      "message": "Welcome to Villa! Excited to be here?"
+      "id": "1",
+      "name": "Villa Intro"
     },
     {
-      "type": 0,
-      "message": "You can ask me anything, and I'll respond. For example, ask me how to fly in Villa."
-    },
-    {
-      "type": 0,
-      "message": "Do you want to create GenAI Art? Or build worlds? Ask me how and I'll show you"
-    },
-    {
-      "type": 0,
-      "message": "Did you know you can create virtual worlds on Villa? Ask me how"
-    },
-    {
-      "type": 0,
-      "message": "Did you know you can travel virtually anywhere on Earth on Villa? Ask me how"
-    },
-    {
-      "type": 0,
-      "message": "You want to play? Ask me how to play on Villa on Galactica"
+      "id": "2",
+      "name": "How to spawn tutorial"
     }
   ]
 }
