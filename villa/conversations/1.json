@@ -2,9 +2,9 @@
   "conversation": {
     "id": "1",
     "name": "Villa Intro",
-    "userResponseWaitTime": 2.0,
+    "userResponseWaitTime": 4.0,
     "userResponseWaitTimeAfterFirstWord":0.5,
-    "aiNextTaskWaitTime" : 1,
+    "aiNextTaskWaitTime" : 0.1,
     "messages": [
       {
         "type": 0,
